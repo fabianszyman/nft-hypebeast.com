@@ -22,6 +22,8 @@ export type SocialIcons = {
 };
 
 export type SocialMedia =
+  | "ENS"
+  | "Opensea"
   | "Etherscan"
   | "Github"
   | "Facebook"

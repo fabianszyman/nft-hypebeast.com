@@ -19,6 +19,18 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "ENS",
+    href: "https://app.ens.domains/name/nft-hypebeast.eth/details",
+    linkTitle: ` ${SITE.title} on Opensea`,
+    active: true,
+  },
+  {
+    name: "Opensea",
+    href: "https://opensea.io/NFT-HYPEBEAST",
+    linkTitle: ` ${SITE.title} on Opensea`,
+    active: true,
+  },
+  {
     name: "Etherscan",
     href: "https://etherscan.io/address/0x05C64b35b27D64fA5d4b87bBb1cb3daE3DcDd612",
     linkTitle: ` ${SITE.title} on Etherscan`,

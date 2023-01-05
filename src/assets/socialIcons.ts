@@ -1,16 +1,25 @@
 import type { SocialIcons } from "src/types";
 
 const socialIcons: SocialIcons = {
-  Etherscan: `<svg
-  xmlns="http://www.w3.org/2000/svg"
-  class="icon-tabler"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
+  ENS: `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-certificate-2" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-  <path
-    d="M20 7V5c0-1.103-.897-2-2-2H5C3.346 3 2 4.346 2 6v12c0 2.201 1.794 3 3 3h15c1.103 0 2-.897 2-2V9c0-1.103-.897-2-2-2zm-2 9h-2v-4h2v4zM5 7a1.001 1.001 0 0 1 0-2h13v2H5z"
-  ></path>
+  <circle cx="12" cy="15" r="3"></circle>
+  <path d="M10 7h4"></path>
+  <path d="M10 18v4l2 -1l2 1v-4"></path>
+  <path d="M10 19h-2a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-2"></path>
+</svg>`,
+  Opensea: `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-ship" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+  <path d="M2 20a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1"></path>
+  <path d="M4 18l-1 -5h18l-2 4"></path>
+  <path d="M5 13v-6h8l4 6"></path>
+  <path d="M7 7v-4h-1"></path>
+</svg>`,
+
+  Etherscan: `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-currency-ethereum" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+  <path d="M6 12l6 -9l6 9l-6 9z"></path>
+  <path d="M6 12l6 -3l6 3l-6 2z"></path>
 </svg>`,
   Github: `<svg
     xmlns="http://www.w3.org/2000/svg"
