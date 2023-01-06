@@ -12,4 +12,12 @@ My name is Fabian, and I'm a Product Manager from Munich with over 5 years of ex
 
 As a Product Manager, I've always been interested in staying up to date with the latest and greatest technologies. However, I've never had the desire or time to dive deep into coding. That's why I've decided to start this blog to document my progress as I learn how to code and explore the world of Crypto, NFTs and Blockchain. I'm excited to begin this new experience and share my journey with you!
 
+So my three main goals here are:
+
+1. Share news about the recent trends in the world of Crypto, NFTs & Blockchain.
+
+2. Write [blog articles explaining](/tags/explanation). all the relevant fundamental terms and concept in Web3.
+
+3. Learn to build my first Web3 Dapp & share my journey.
+
 So stay tuned for more updates!
