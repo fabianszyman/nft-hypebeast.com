@@ -3,7 +3,7 @@ author: Fabian Szymanczyk
 datetime: 2023-01-05T15:22:00Z
 title: Where to I start with Web3, Cryto and Blockchain
 slug: how-to-get-into-crypto-blockchain
-featured: true
+featured: truegit ad
 draft: false
 tags:
   - introduction
