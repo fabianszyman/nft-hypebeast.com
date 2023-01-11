@@ -1,6 +1,6 @@
 ---
 author: Fabian Szymanczyk
-datetime: 2023-01-11T19:20:35Z
+datetime: 2023-01-12T08:20:35Z
 title: Introduction to Ethereum
 slug: "introduction-to-ethereum"
 featured: true
