@@ -1,7 +1,7 @@
 ---
 author: Sat Naing
 datetime: 2023-01-11T19:20:35Z
-title: What is Web3, Blockchain, DLT, NFT and Crypto? Explaining the Basics
+title: What is Web3, Blockchain, DLT, NFT and Crypto - Explaining the Basics
 slug: "understanding-web3-blockchain-dlt-nft-and-crypto"
 featured: true
 draft: false
